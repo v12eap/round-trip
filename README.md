@@ -2,6 +2,8 @@
 
 A private trading journal and analytics tool — win rate, profit factor, equity curve, and which of your strategies are actually making money. One HTML file, no backend, no signup.
 
+https://v12eap.github.io/round-trip/
+
 ![Round Trip dashboard](screenshot.png)
 
 ## Features
